@@ -1,0 +1,11 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "A simple command-line weather app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["weather", "cli"],
+  "license": "MIT"
+}
