@@ -6,9 +6,14 @@ A simple command-line weather app.
 
 ```bash
 npm start <city>
+npm start <city> --celsius
 ```
+
+## Options
+
+- `--celsius`, `-c` - Display temperature in Celsius
 
 ## Features
 
 - Get current weather for any city
-- Supports multiple temperature units
+- Supports Fahrenheit and Celsius temperature units
