@@ -2,11 +2,12 @@
 # Records the flow of committing staged changes and creating a PR
 
 Output demo.gif
+Output demo.mp4
 Set Theme "Dracula"
-Set FontSize 14
-Set Width 900
-Set Height 650
-Set Framerate 30
+Set FontSize 20
+Set Width 1400
+Set Height 900
+Set Framerate 60
 Set PlaybackSpeed 1
 
 # Start autogit in the demo repo
